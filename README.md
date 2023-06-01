@@ -39,7 +39,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=tokyonight&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <h2 align="center">Contact me :postbox:</h2>
