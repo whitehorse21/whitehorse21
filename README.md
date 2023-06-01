@@ -18,10 +18,10 @@
 </div>
 
 <h2 align="center">Github stats :bar_chart:</h2>
+
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
-
-<p align="center"><img src="https://gists-readme.yizack.com/api?user={whitehorse9021}" alt="whitehorse21 :: Git Stats" /></p>
+<p align="center"><img src="https://gists-readme.yizack.com/api?user={whitehorse21}" alt="whitehorse21 :: Git Stats" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=tokyonight&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
