@@ -36,7 +36,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=tokyonight&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=12&theme=ocean_dark&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=ocean-gradient&hide_border=true&include_all_commits=true&line_height=27">
