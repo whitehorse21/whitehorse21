@@ -38,12 +38,6 @@
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=ocean_dark&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whitehorse21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img width="40.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=ocean-gradient&hide_border=true&include_all_commits=true&line_height=27">
 </p>
