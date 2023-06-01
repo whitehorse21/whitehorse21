@@ -45,8 +45,6 @@
   <a href="https://join.skype.com/invite/qWHqVMM1RVZz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
 ![Snake animation](https://github.com/ruuuff/ruuuff/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ----
