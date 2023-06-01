@@ -16,6 +16,7 @@
   <img align="center" alt="Vue" height="30" width="40" title="Vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="30" width="40" title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="VSCode" height="30" width="40" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
