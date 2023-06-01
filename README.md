@@ -48,4 +48,3 @@
 ![Snake animation](https://github.com/ruuuff/ruuuff/blob/output/github-contribution-grid-snake.svg)
 
 ----
-![Uploading image.png…]()
