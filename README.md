@@ -15,6 +15,7 @@
   <img align="center" alt="GraphQL" height="30" width="40" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="TailwindCSS" height="30" width="40" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Vue" height="30" width="40" title="Vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Flask" height="30" width="40" title="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
@@ -25,6 +26,7 @@
   <img align="center" alt="MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Firebase" height="30" width="40" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
 </div>
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -45,3 +47,4 @@
 ![Snake animation](https://github.com/ruuuff/ruuuff/blob/output/github-contribution-grid-snake.svg)
 
 ----
+![Uploading image.png…]()
