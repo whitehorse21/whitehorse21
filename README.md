@@ -3,7 +3,7 @@
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<div style="display:flex;flex:wrap;gap:100px 0px;"><br>
+<div style="display:inline-flex"><br>
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
