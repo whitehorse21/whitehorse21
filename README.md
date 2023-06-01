@@ -38,6 +38,10 @@
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=tokyonight&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
 
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+
 <h2 align="center">Contact me :postbox:</h2>
 <div align="center">
   <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
