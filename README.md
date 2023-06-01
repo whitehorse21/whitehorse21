@@ -38,7 +38,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=tokyonight&layout=compact" alt="whitehorse21 :: Top Langs" /></p>
 
-<div>
+<div align="center">
   <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://discordapp.com/users/922281782450208818" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://t.me/whitehorse9021" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
