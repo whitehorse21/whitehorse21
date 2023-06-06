@@ -1,12 +1,11 @@
-# Hello! 👋 I'm a Full-Stack Dev
-# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
+# Hello! 👋 I'm a Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
 
 <div>
 <br/>
 - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 </div>
 
@@ -164,8 +163,8 @@
 <a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
 </p>
 
-<h2 align="center">Contact me :postbox:</h2>
-<div align="center">
+<h2>Contact me :postbox:</h2>
+<div>
   <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://discordapp.com/users/922281782450208818" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://t.me/whitehorse9021" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
