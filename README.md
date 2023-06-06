@@ -160,7 +160,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@whitehorse21"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=whitehorse21&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@whitehorse21's wakatime stats"/></a>
+<a href="https://wakatime.com/@whitehorse21"<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=ocean_dark&layout=compact" alt="whitehorse21 :: Top Langs" /></a>
 <a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
 </p>
 
