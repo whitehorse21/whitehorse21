@@ -160,7 +160,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=ocean_dark&layout=compact" width="58%" alt="whitehorse21 :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=ocean_dark&layout=compact" width="37%" height="215px" alt="whitehorse21 :: Top Langs" />
 <a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
 </p>
 
