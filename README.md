@@ -1,4 +1,4 @@
-# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
+![image](https://github.com/whitehorse21/whitehorse21/assets/10959922/27e289e0-0299-4d86-aebd-3b88fb9ffe8f)![image](https://github.com/whitehorse21/whitehorse21/assets/10959922/b59f58a4-ef7b-4705-a60d-4c74f8f90140)# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -164,6 +164,7 @@
 <div>
   <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://join.skype.com/invite/qWHqVMM1RVZz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/whitehorse1004" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
