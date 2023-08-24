@@ -159,7 +159,7 @@
       <br>Firebase
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkinds" width="48" height="48" alt="Jenkins" />
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td>
     <td align="center" width="96">
