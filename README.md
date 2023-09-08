@@ -1,4 +1,4 @@
-# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
+![image](https://github.com/whitehorse21/whitehorse21/assets/10959922/84a25925-5751-473c-8383-4bedaa66ecf3)# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
 
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -174,6 +174,10 @@
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
+
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits'>
+</p>
 
 <p align="center">
 
