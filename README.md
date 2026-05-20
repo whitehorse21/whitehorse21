@@ -176,15 +176,15 @@
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=shopify" width="48" height="48" alt="Shopify" />
+        <img src="https://www.readmecodegen.com/api/social-icon?name=shopify&size=96&bg=%23000000" width="48" height="48" alt="Shopify" />
       <br>Shopify
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=woocommerce" width="48" height="48" alt="WooCommerce" />
+        <img src="https://www.readmecodegen.com/api/social-icon?name=woocommerce&size=96&bg=%23000000" width="48" height="48" alt="WooCommerce" />
       <br>WooCommerce
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI" />
+        <img src="https://www.readmecodegen.com/api/social-icon?name=openai&size=96&bg=%23000000" width="48" height="48" alt="OpenAI" />
       <br>OpenAI
     </td>
   </tr>
